@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @ednossaur
-Student at UFBA. ptbr, en, cmn
+- 👋 Hi, I’m @ednossaur. Student at UFBA. ptbr, en, cmn
 
 <!---
 ednossaur/ednossaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
